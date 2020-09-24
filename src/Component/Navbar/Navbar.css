@@ -1,0 +1,14 @@
+.nav a {
+    text-align: center;
+    margin: 5px;
+    color: rgb(24, 21, 17);
+    font-size: 15px;
+}
+
+.logo {
+    margin-left: 10px;
+}
+
+div form {
+    margin-left: 5px;
+}
